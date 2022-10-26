@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabson1987
 - 👀 I’m interested in Web3, cryptocurrencies and blockchains
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning solidity for Smart Contracts.
 - 💞️ I’m looking to collaborate on blockchain project
 - 📫 How to reach me tomaszsabina@hotmail.co.uk
 
